@@ -1,0 +1,2 @@
+include ':app', ':libraryroom'
+rootProject.name='RoomModel'
